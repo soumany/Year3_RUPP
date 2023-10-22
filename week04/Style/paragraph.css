@@ -1,0 +1,74 @@
+body{
+  background-color: #000000;  
+}
+
+.date-container{
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+
+.date{
+  color: white;
+  font-size: 17px;
+}
+
+.date-box{
+  width: 180px;
+  padding: 1px;
+  box-sizing: border-box;
+  background-color: orange;
+  text-align: center;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  margin-bottom: 50px;
+}
+
+.long-text{
+  color: white;
+  font-family: Gowun Dodum;
+  font-size: 50px;
+  width: 600px;
+  line-height: 60px;
+}
+
+.text-color{
+  color: #f59802;
+  text-decoration: underline;
+}
+
+.text1-container{
+  text-indent: 35px;
+  margin-bottom: 15px;
+}
+
+.long-text-1{
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 30px;
+  width: 750px;
+}
+
+.long-text-2{
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 30px;
+  width: 750px;
+}
+
+.text2-container{
+  text-indent: 35px;
+}
+
+.text3-container{
+  text-indent: 35px;
+}
+
+.long-text-3{
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 30px;
+  width: 750px;
+}

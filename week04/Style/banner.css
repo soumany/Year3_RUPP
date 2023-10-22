@@ -1,0 +1,62 @@
+.line-container{
+  position: absolute;
+  display: flex;
+  padding-left: 5px;
+}
+
+hr.line-yellow{
+  border: 1px solid #f5ee1d;
+  width: 14px;
+}
+
+hr.line-red{
+  border: 1px solid #000000;
+  width: 14px;
+  border-radius: 5px;
+}
+
+.image{
+  width: 700px;
+  height: 330px;
+  object-fit: cover;
+  margin-top: 15px;
+}
+
+.banner{
+  position: relative;
+}
+
+.title{
+  font-family: Arial;
+  top: 10%;
+  color: #f1f1f1;
+  margin-bottom: 8px;
+  font-size: 45px;
+}
+.intro{
+  font-family: Arial;
+  margin-top: 8px;
+  font-size: 20px;
+  color: #f1f1f1;
+  width: 660px;
+}
+
+.direction{
+  position: absolute;
+  top: 20%;
+  text-align: center;
+  left: 1%;
+}
+
+.infor{
+  color: gray;
+  width: 700px;
+}
+
+.infor-contain{
+  text-align: center;
+}
+
+
+
+
